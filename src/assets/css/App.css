@@ -37,13 +37,6 @@ body {
   animation: girar infinite 5s linear;
 }
 
-/* #logo img {
-  display: block;
-  float: left;
-  height: 60px;
-  animation: girar infinite 30s linear;
-} */
-
 @keyframes girar {
   0% {
       transform: scale(1, 1);
@@ -125,7 +118,6 @@ body {
 .subheader img {
   margin-top: 35px;
 }
-
 
 .btn-white {
   text-decoration: none;
